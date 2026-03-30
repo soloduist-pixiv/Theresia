@@ -115,9 +115,12 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.auth-wrap-login {
   background:
     linear-gradient(120deg, rgba(15, 23, 42, 0.55) 0%, rgba(30, 41, 59, 0.38) 38%, rgba(15, 23, 42, 0.55) 100%),
-    url("https://api.btstu.cn/sjbz/api.php?lx=dongman&format=images") center/cover no-repeat;
+    url("./pic/晩夏の夕暮れ_21440268.jpg") center/cover no-repeat;
   border-radius: 20px;
   overflow: hidden;
 }

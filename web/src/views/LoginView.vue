@@ -1,5 +1,5 @@
 <template>
-  <section class="auth-wrap">
+  <section class="auth-wrap auth-wrap-login">
     <form class="auth-card" @submit.prevent="submitLogin">
       <div class="auth-head">
         <h2>欢迎回来</h2>
