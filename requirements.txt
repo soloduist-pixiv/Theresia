@@ -7,3 +7,4 @@ bcrypt==4.0.1
 pydantic-settings==2.10.1
 elasticsearch==9.1.0
 langchain-openai==0.3.32
+PyYAML==6.0.2
